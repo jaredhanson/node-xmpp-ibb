@@ -1,0 +1,16 @@
+{
+  "name": "xmpp-ibb",
+  "version": "0.0.1",
+  "description": "XMPP IBB streams library for Node.js.",
+  "author": "Jared Hanson <jaredhanson@gmail.com> (http://www.jaredhanson.net/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jaredhanson/node-xmpp-ibb.git"
+  },
+  "main": "./lib/xmpp-ibb",
+  "dependencies": {
+    "node-xmpp": ">= 0.2.9"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["xmpp", "ibb", "stream", "streams"]
+}
